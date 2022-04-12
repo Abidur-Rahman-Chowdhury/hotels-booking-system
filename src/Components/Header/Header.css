@@ -5,3 +5,11 @@
     font-weight: bold;
     border-bottom: 2px solid white;
 }
+@media  only screen and (max-width:960px) {
+    .nav-container{
+        flex-direction: column;
+    }
+    .nav-item{
+        flex-direction: column;
+    }
+}

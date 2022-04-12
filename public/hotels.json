@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Double Bed",
+    "price": 800,
+    "img": "https://i.ibb.co/2Yq92p3/double-bed.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Couple Bed",
+    "price": 1000,
+    "img": "https://i.ibb.co/V276RNG/couple-bed.jpg"
+  },
+  {
+    "id": 3,
+    "name": "King Bed",
+    "price": 1500,
+    "img": "https://i.ibb.co/mtCS61R/king-bed.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Single Bed",
+    "price": 600,
+    "img": "https://i.ibb.co/Wnz4D9V/single-bed.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Luxury Bed",
+    "price": 1800,
+    "img": "https://i.ibb.co/cgbkkDd/luxury-bedroom-hotel.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Master Bed",
+    "price": 2500,
+    "img": "https://i.ibb.co/cgd45Mv/master-bedroom.jpg"
+  }
+]
